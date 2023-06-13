@@ -139,13 +139,6 @@ int main() {
   {0, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0}
 };
 
-  // print_generation(grid1);
-  // grid1 = new_grid(grid1);
-  // std::cout << std::endl;
-  // print_generation(grid1);
-  // grid1 = new_grid(grid1);
-  // std::cout << std::endl;
-  // print_generation(grid1);
 
   generate_x(20, pulsar);
 
